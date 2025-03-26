@@ -50,3 +50,4 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 
+Don't forget to do npm install react as needed for modules 
